@@ -1,0 +1,51 @@
+@import url(https://fontlibrary.org/face/waltograph);
+
+#main {
+  background: linear-gradient(180deg,yellow,red,yellow);
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+#title {
+  text-align: center;
+  font-family: 'WaltographRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+#top {
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: -40px;
+}
+#bottom {
+  font-size: 30px;
+}
+#tribute-info {
+  text-align: left;
+  font-family: sans-serif;
+  margin-left: 10px;
+}
+#img-div img {
+  display: block;
+  max-height: 40%;
+  max-width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption {
+  font-family: sans-serif;
+}
+#quote {
+  text-align: center;
+  font-size: 50px;
+  font-family: "WaltographRegular";
+}
+#tribute-link {
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+#final {
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
